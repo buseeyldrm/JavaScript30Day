@@ -18,3 +18,7 @@
 ![](Resimler/flexbox-1.png)
 ![](Resimler/flexbox-2.png)
 ![](Resimler/flexbox-3.png)
+
+## Day 6: Ajax-Type-Ahead
+![](Resimler/6-1.png)
+![](Resimler/6-2.png)
