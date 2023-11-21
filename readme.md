@@ -22,3 +22,6 @@
 ## Day 6: Ajax-Type-Ahead
 ![](Resimler/6-1.png)
 ![](Resimler/6-2.png)
+
+## Day 7: Array Cardio Practive-2
+![](Resimler/7.png)
