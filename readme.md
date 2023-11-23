@@ -25,3 +25,6 @@
 
 ## Day 7: Array Cardio Practive-2
 ![](Resimler/7.png)
+
+## Day 8: Fun With HTML Canvas
+![](Resimler/8.png)
