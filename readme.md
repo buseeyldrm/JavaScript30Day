@@ -28,3 +28,8 @@
 
 ## Day 8: Fun With HTML Canvas
 ![](Resimler/8.png)
+
+## Day 9: Dev Tool Tricks
+![](Resimler/9-1.png)
+![](Resimler/9-2.png)
+![](Resimler/9-3.png)
