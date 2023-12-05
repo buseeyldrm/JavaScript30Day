@@ -33,3 +33,7 @@
 ![](Resimler/9-1.png)
 ![](Resimler/9-2.png)
 ![](Resimler/9-3.png)
+
+## Day 10: JS Checkbox Challenge
+![](Resimler/10-1.png)
+![](Resimler/10-2.png)
