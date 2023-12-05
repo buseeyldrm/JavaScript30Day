@@ -41,3 +41,6 @@
 ## Day 11: HTML Video Player 
 ![](Resimler/11-1.png)
 ![](Resimler/11-2.png)
+
+## Day 12: Key Detection
+![](Resimler/12.png)
