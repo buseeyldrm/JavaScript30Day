@@ -49,3 +49,6 @@
 ### Scroll ilerledikçe fotoğrafların boyutuna göre fotoğraflar açılır.
 ![](Resimler/13-1.png)
 ![](Resimler/13-2.png)
+
+## Day 14: Object and Arrays - Reference VS Copy
+![](Resimler/14.png)
