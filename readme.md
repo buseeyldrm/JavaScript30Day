@@ -44,3 +44,8 @@
 
 ## Day 12: Key Detection
 ![](Resimler/12.png)
+
+## Day 13: Slide In on Scroll 
+### Scroll ilerledikçe fotoğrafların boyutuna göre fotoğraflar açılır.
+![](Resimler/13-1.png)
+![](Resimler/13-2.png)
