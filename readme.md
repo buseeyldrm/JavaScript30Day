@@ -55,3 +55,6 @@
 
 ## Day 15: LocalStorage and Event Delegation
 ![](Resimler/15.png)
+
+## Day 16: CSS Text Shadow on Mouse Move Effect
+![](Resimler/16.png)
