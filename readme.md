@@ -52,3 +52,6 @@
 
 ## Day 14: Object and Arrays - Reference VS Copy
 ![](Resimler/14.png)
+
+## Day 15: LocalStorage and Event Delegation
+![](Resimler/15-1.png)
