@@ -58,3 +58,6 @@
 
 ## Day 16: CSS Text Shadow on Mouse Move Effect
 ![](Resimler/16.png)
+
+## Day 17: Sorting Band Names without Articles
+![](Resimler/17.png)
