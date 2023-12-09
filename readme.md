@@ -54,4 +54,4 @@
 ![](Resimler/14.png)
 
 ## Day 15: LocalStorage and Event Delegation
-![](Resimler/15-1.png)
+![](Resimler/15.png)
