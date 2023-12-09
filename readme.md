@@ -61,3 +61,6 @@
 
 ## Day 17: Sorting Band Names without Articles
 ![](Resimler/17.png)
+
+## Day 18: Tally String Times with Reduce
+![](Resimler/18.png)
