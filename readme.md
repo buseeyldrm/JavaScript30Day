@@ -64,3 +64,6 @@
 
 ## Day 18: Tally String Times with Reduce
 ![](Resimler/18.png)
+
+## Day 20: Native Speech Recognition
+![](Resimler/20.png)
