@@ -70,3 +70,6 @@
 
 ## Day 21: Geolocation Based Speedometer and Compass
 ![](Resimler/21.png)
+
+## Day 22: Follow Along Links 
+![](Resimler/22.png)
