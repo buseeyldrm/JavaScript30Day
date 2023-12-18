@@ -73,3 +73,6 @@
 
 ## Day 22: Follow Along Links 
 ![](Resimler/22.png)
+
+## Day 23: Speech Synthesis
+![](Resimler/23.png)
