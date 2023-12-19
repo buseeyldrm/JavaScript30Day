@@ -76,3 +76,6 @@
 
 ## Day 23: Speech Synthesis
 ![](Resimler/23.png)
+
+## Day 24: Sticky Nav
+![](Resimler/24.png)
