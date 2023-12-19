@@ -79,3 +79,6 @@
 
 ## Day 24: Sticky Nav
 ![](Resimler/24.png)
+
+## Day 25: Event Capture, Propagation and Bubbling 
+![](Resimler/25.png)
