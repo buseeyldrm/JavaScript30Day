@@ -82,3 +82,9 @@
 
 ## Day 25: Event Capture, Propagation and Bubbling 
 ![](Resimler/25.png)
+
+## Day 26: Stripe Follow Along Dropdown Navigation
+![](Resimler/26.png)
+
+## Day 27: Click and Drag to Scroll
+![](Resimler/27.png)
