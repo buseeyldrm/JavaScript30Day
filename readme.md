@@ -88,3 +88,6 @@
 
 ## Day 27: Click and Drag to Scroll
 ![](Resimler/27.png)
+
+## Day 28: Build a Experimental Video Speed Controller UI 
+![](Resimler/28.png)
