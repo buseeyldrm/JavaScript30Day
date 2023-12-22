@@ -92,7 +92,7 @@
 ## Day 28: Build a Experimental Video Speed Controller UI 
 ![](Resimler/28.png)
 
-## Day 29 :Make a Whack A Mole Game
+## Day 29 :Countdown Timer 
 ![](Resimler/29.png)
 ## Day 30: Make a Whack A Mole Game 
 ![](Resimler/30.png)
