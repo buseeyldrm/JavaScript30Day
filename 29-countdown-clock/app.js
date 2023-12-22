@@ -8,7 +8,7 @@ function timer(seconds) {
     clearInterval(countdown);
 
     const now = Date.now();
-    const then = now + seconds * 1000;
+    const then = now + seconds * 1000; //kaçta biteceğini gösterir.
     displayTimeLeft(seconds);
     displayEndTime(then);
 
