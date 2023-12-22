@@ -94,3 +94,5 @@
 
 ## Day 29 :Make a Whack A Mole Game
 ![](Resimler/29.png)
+## Day 30: Make a Whack A Mole Game 
+![](Resimler/30.png)

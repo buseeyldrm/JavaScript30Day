@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whack a Mole!</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+    <h1>Whack-a-mole! <span class="score">0</span></h1>
+    <button class="button-54 container" role="button" onclick="startGame()">Start!</button>
+    <button class="button2-54 container" role="button" onclick="finishGame()">Finish!</button>
+
+    <div class="scoreInformation">
+        <p class="gameScore">Oyun Skorunuz: <span></span></p>
+        <p class="maxScore">En Yüksek Skorunuz: <span></span> </p>
+    </div>
+
+    <div class="game">
+        <div class="hole hole1">
+            <div class="mole"></div>
+        </div>
+        <div class="hole hole2">
+            <div class="mole"></div>
+        </div>
+        <div class="hole hole3">
+            <div class="mole"></div>
+        </div>
+        <div class="hole hole4">
+            <div class="mole"></div>
+        </div>
+        <div class="hole hole5">
+            <div class="mole"></div>
+        </div>
+        <div class="hole hole6">
+            <div class="mole"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
